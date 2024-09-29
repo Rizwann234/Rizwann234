@@ -2,7 +2,7 @@
 ### Hi there 👋
 I'm **Rizwan Nobeebux**, an early-career data scientist passionate about using **machine learning**, **data governance**, and **consulting** to deliver impactful insights. Welcome to my GitHub page, where I showcase the projects that demonstrate my ability to leverage cutting-edge technologies to derive meaningful insights from data.
 
-Open to new opportunities in various industries and I am also eager to collaborate on personal projects with fellow peers. Feel free to reach out !! 
+Open to new opportunities in various industries and I am also eager to collaborate on personal projects with fellow peers. Feel free to reach out!
 
 ---
 
