@@ -17,13 +17,6 @@ Open to new opportunities in various industries and I am also eager to collabora
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Rizwann234&theme=radical)
-</div>
-
----
-
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rizwann234&show_icons=true&theme=radical" alt="GitHub stats" />
