@@ -1,6 +1,8 @@
-## Hi there 👋
+
 ### Hi there 👋
 I'm **Rizwan Nobeebux**, an early-career data scientist passionate about using **machine learning**, **data governance**, and **consulting** to deliver impactful insights. Welcome to my GitHub page, where I showcase the projects that demonstrate my ability to leverage cutting-edge technologies to derive meaningful insights from data.
+
+Open to new opportunities in various industries and I am also eager to collaborate on personal projects with fellow peers. Feel free to reach out !! 
 
 ---
 
@@ -26,18 +28,6 @@ I'm **Rizwan Nobeebux**, an early-career data scientist passionate about using *
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rizwann234&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwann234&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
----
-
-### 💻 Coding Activity
-![Rizwan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rizwann234&theme=radical)
-
----
-
-### 🔥 GitHub Streak
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rizwann234&theme=radical)](https://git.io/streak-stats)
 </div>
 
 ---
