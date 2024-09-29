@@ -34,6 +34,6 @@ Open to new opportunities in various industries and I am also eager to collabora
 ### 💼 Let's Connect
 If you’re looking for a data scientist passionate about solving complex problems with data, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-n-493326133/details/certifications/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-n-493326133/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github-pages&logoColor=white)](https://github.com/Rizwann234?tab=repositories)
